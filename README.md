@@ -4,3 +4,5 @@ The constraint definitions and solver for a 2d rigid bodies simulation program. 
 YouTube Link:
 
 https://youtu.be/i31uRNrAWVI
+
+![Image of Project](https://github.com/nithinp7/Rigid-Bodies-2D/blob/main/2drigidbodies_pic.png)
